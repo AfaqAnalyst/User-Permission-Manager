@@ -1,4 +1,4 @@
-# Interloop — Tableau RLS Permission Manager
+# RLS Permission Manager
 ### Full-Stack Node.js + Oracle + Tableau Server
 
 ---
