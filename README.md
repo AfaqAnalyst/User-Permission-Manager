@@ -115,19 +115,6 @@ INNER JOIN v_rls_permissions p
 
 ---
 
-## 🏭 Organizations Reference
-
-| ORG_ID | Organization Name |
-|--------|-------------------|
-| 81 | Interloop Hosiery |
-| 83 | Interloop Spinning |
-| 84 | Interloop Yarn Dyeing |
-| 2021 | Interloop Limited |
-| 2670 | Interloop Denim |
-| 2782 | Interloop Active Wear |
-| 4616 | Interloop Apparel |
-
----
 
 ## 📞 Support
 If Oracle connection fails — check:
